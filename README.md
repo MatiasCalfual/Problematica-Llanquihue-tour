@@ -44,5 +44,5 @@ Para ejecutar este prototipo en tu entorno local siguiendo los estándares de In
 4. Verificar Salida:
    - Los resultados de la trazabilidad de objetos se mostrarán automáticamente en la pestaña Run de la parte inferior del IDE.
 
-*Desarrollado como actividad formativa - Junio 2026.*
+
 
